@@ -21,7 +21,7 @@
 
     <groupId>com.artnaseef</groupId>
     <artifactId>log-appender</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Log Appender</name>
@@ -52,7 +52,7 @@
         <connection>scm:git:git@github.com:artnaseef/log-appender.git</connection>
         <developerConnection>scm:git:git@github.com:artnaseef/log-appender.git</developerConnection>
         <url>git@github.com:artnaseef/log-appender.git</url>
-      <tag>log-appender-1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <modules>
