@@ -28,6 +28,7 @@
     <packaging>pom</packaging>
 
     <name>Log Appender</name>
+    <url>https://github.com/artnaseef/log-appender</url>
 
     <description>
         Parent of various log appenders.
